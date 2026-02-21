@@ -1,5 +1,5 @@
 ## I'm Paulo, a front-end developer in training :)
-### Currently working as an intern since 2025.
+Currently working as an intern since 2025.
 - I’m currently working on <a href="https://www.nairuz.com.br">Nairuz<a><br>
 - I’m currently learning React and VTEX
 
