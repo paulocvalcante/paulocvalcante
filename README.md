@@ -1,5 +1,6 @@
 # About Me:
-- I’m currently working on Nairuz<br>- I’m currently learning React and VTEX
+- I’m currently working on <a href="https://www.nairuz.com.br">Nairuz<a><br>
+- I’m currently learning React and VTEX
 
 
 ## Socials:
